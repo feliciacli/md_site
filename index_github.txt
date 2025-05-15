@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>moldavia</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <!-- blocco titolo -->
+
+  <body>
+    <div class="inizio">
+      <div style="text-align: left">
+        <p style="font-size: 90%">
+          Informatica per la Traduzione <br />
+          6 CFU
+        </p>
+      </div>
+      <div>
+        <h1 style="font-size: 300%">MOLDAVIA</h1>
+      </div>
+      <div style="text-align: right">
+        <p style="text-align: right; font-size: 90%">
+          Felicia Cliucinicov<br />
+          Language Technologies & Digital Humanities<br />
+          Mat. 1144561, 2024/2025<br />
+          <a href="mailto:felicia.cliucinicov@edu.unito.it">email</a>
+        </p>
+      </div>
+    </div>
+    <div class="spazio" style="margin: 40px"></div>
+
+    <div class="paginaindue">
+      <div class="menu">
+        <!-- parte links -->
+        <p>Sezioni correlate del blog</p>
+        <a href="cultura.html">La cultura</a>
+        <a href="turismo.html">Il turismo</a>
+        <a href="gastronomia.html">La gastronomia</a>
+        <div class="spazio"></div>
+
+        <p>Collegamenti informativi</p>
+
+        <a href="https://moldova.travel/en/"
+          >Portale ufficiale del turismo in Moldova</a
+        >
+        <a href="https://www.consilium.europa.eu/it/policies/moldova/"
+          >Moldova – Sezione dedicata sul sito del Consiglio
+          dell’UnioneEuropea</a
+        >
+        <a href="https://www.unesco.org/en/countries/md"
+          >Repubblica di Moldova – Sezione UNESCO</a
+        >
+        <a href="https://trm.md/">TeleRadio Moldova </a>
+        <a href="https://moldova1.md/s/en/14">Moldova1 - canale informativo </a>
+        <a href="https://www.moldova.org/">Moldova.org </a>
+        <div class="spazio"></div>
+
+        <div>
+          <p>Musei</p>
+
+          <a href="https://www.nationalmuseum.md/en/"
+            >Museo Nazionale di Storia della Moldova
+          </a>
+          <a href="https://www.muzeu.md/"
+            >Museo Nazionale di Etnografia e Storia Naturale
+          </a>
+          <a href="https://www.mnam.md/">Museo Nazionale dell'Arte </a>
+          <a href="https://www.himoldova.md/en/md/house-museum-of-as-pushkin/"
+            >Casa-Museo di Alexander Pushkin
+          </a>
+        </div>
+        <div class="spazio"></div>
+        <p>Collegamenti istituzionali</p>
+        <a href="https://moldova.md/en"
+          >Portale ufficiale della Repubblica di Moldova</a
+        >
+        <a href="https://presedinte.md"
+          >Presidenza della Repubblica di Moldova</a
+        >
+        <a href="https://italia.mfa.gov.md/it"
+          >Ambasciata della Repubblica di Moldova in Italia e a Malta</a
+        >
+        <a href="https://www.worldjewishcongress.org/en/about/communities/MD"
+          >Comunità ebraica moldava – World Jewish Congress</a
+        >
+        <a href="https://www.evisa.gov.md/"
+          >Richiesta del visto – Agenzia per le migrazioni della Moldova</a
+        >
+        <a href="https://airport.md/en"
+          >Aeroporto Internazionale di Chișinău – Sito ufficiale
+        </a>
+        <div class="spazio"></div>
+      </div>
+
+      <div class="contenuto">
+        <h2>Dove si trova?</h2>
+        <!-- parte testo -->
+        <p>
+          La Moldavia, o Repubblica della Moldavia, è una piccola nazione
+          situata nell'Europa orientale, incastonata tra la Romania a ovest e
+          l'Ucraina verso est.
+        </p>
+        <img src="mappa_md.png" width="100%" alt="Mappa Moldavia" />
+
+        <p>
+          È caratterizzata da paesaggi collinari, tradizioni popolari e una
+          forte cultura vitivinicola. Non presenta sbocchi sul mare, ma è
+          circondata da importanti fiumi, come il Nistro e il Prut, che ne
+          segnano i confini naturali. La sua posizione geografica l'ha resa, nel
+          corso dei secoli, un crocevia di culture, imperi e influenze diverse.
+          Questo ha contribuito alla sua storia complessa: dopo essere stata
+          parte dell'Impero Ottomano, della Russia zarista e, successivamente,
+          dell'Unione Sovietica, ha ottenuto l'indipendenza nel 1991.
+        </p>
+        <p>
+          Oggi la Moldavia è una repubblica parlamentare indipendente, con
+          capitale Chișinău. Nonostante le sue dimensioni ridotte, questo paese
+          custodisce un patrimonio culturale ricco e variegato, fatto di antiche
+          tradizioni, musica folkloristica, artigianato e architettura
+          religiosa. La sua economia è in gran parte basata sull'agricoltura, in
+          particolare sulla produzione di vino, che rappresenta una delle
+          principali esportazioni nazionali. Negli ultimi anni, la Moldavia ha
+          anche cominciato a sviluppare il settore turistico, puntando sulle sue
+          bellezze naturali, sui villaggi rurali autentici e sulle sue celebri
+          cantine sotterranee. Pur affrontando sfide economiche e sociali, la
+          Moldavia continua a conservare una forte identità nazionale e a
+          guardare con interesse alle opportunità offerte dall'integrazione
+          europea e dalla cooperazione internazionale.
+        </p>
+        <div class="spazio"></div>
+        <h2>Per cos'è famosa?</h2>
+        <p>
+          La Moldavia è famosa soprattutto per la sua tradizione vinicola, una
+          delle più antiche e importanti d'Europa. Il paese ospita alcune delle
+          cantine più grandi del mondo, come Mileștii Mici e Cricova, veri e
+          propri labirinti sotterranei che si estendono per chilometri e
+          custodiscono milioni di bottiglie di vino pregiato. Oltre al vino, la
+          Moldavia è conosciuta per i suoi paesaggi rurali ancora incontaminati,
+          fatti di dolci colline, villaggi tradizionali e campi coltivati. La
+          cultura moldava è ricca di folklore, con danze popolari, costumi
+          tradizionali e festival che si celebrano durante tutto l'anno. I
+          monasteri medievali, molti dei quali sono inseriti nella lista del
+          patrimonio mondiale dell'UNESCO, rappresentano un'altra attrazione
+          importante, testimoniando la profonda religiosità del popolo moldavo.
+          Anche la cucina locale contribuisce alla fama del paese: piatti come
+          la mămăligă, la placinta e le zuppe a base di carne e verdure sono
+          apprezzati sia dai residenti che dai visitatori. Negli ultimi anni, la
+          Moldavia ha iniziato ad emergere come destinazione turistica
+          alternativa, amata da chi cerca autenticità, prezzi accessibili e
+          un’accoglienza calorosa. Nonostante sia ancora poco conosciuta a
+          livello globale, la Moldavia sorprende chi la visita con il suo mix
+          unico di storia, natura e tradizioni vive.
+        </p>
+        <div class="spazio"></div>
+        <h2>Curiosità</h2>
+
+        <div class="stemma">
+          <!-- bandiera a destra -->
+          <div>
+            <p>Lo sai cosa rappresenta ogni colore della bandiera moldava?</p>
+            <ul>
+              <li>
+                <strong>Blu</strong>: è il colore del cielo e rappresenta la
+                voglia di vivere.
+              </li>
+              <li>
+                <strong>Giallo</strong>: simboleggia il sole e i campi di grano.
+              </li>
+              <li>
+                <strong>Rosso</strong>: rappresenta il sangue versato nella
+                storia.
+              </li>
+            </ul>
+            <p>E invece lo stemma?</p>
+            <p>
+              Al centro della bandiera troviamo l'aquila dorata, simbolo
+              araldico della sovranità e del potere. Essa tiene nel becco la
+              croce ortodossa, rappresentando la religione di stato, e tra le
+              zampe un ramo di olivo (rappresentando la pace) e uno scettro
+              (simbolo dell'autorità). Sul petto invece è raffigurato uno scudo
+              con la testa di un uro, un bue estinto che simboleggia forza e
+              radici storiche: è uno dei simboli tradizionali del vecchio
+              Principato di Moldavia.
+            </p>
+          </div>
+          <div>
+            <img
+              src="stemma_md.png"
+              alt="Stemma della Moldavia"
+              width="200"
+              height="200"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

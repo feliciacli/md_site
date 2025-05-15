@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>cultura</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>                                     <!-- bandiera con links -->
+    <div class="bandiera_alto">
+      <div style="background-color: blue">
+        <p style="color: white">Torna alla homepage:</p>
+        <p>
+          <a href="index.html"
+            ><img
+              src="click_blue.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: yellow">
+        <p>Per scoprire il turismo moldavo:</p>
+        <p>
+          <a href="turismo.html"
+            ><img
+              src="click_yellow.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: red; color: white">
+        <p>Per scoprire la gastronomia moldava:</p>
+        <p>
+          <a href="gastronomia.html"
+            ><img
+              src="click_red.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+    </div>
+
+
+
+
+<div class="spazio"></div>
+
+    <div class="titolo">
+      <h1>La Cultura Moldava</h1>
+    </div>
+    <img
+      src="md_cultura_1.jpg"
+      alt="Ballerini tradizionali moldavi"
+      width="1100"
+      height="400"
+    />
+    <p>
+      La cultura moldava è un ricco intreccio di tradizioni popolari, influenze
+      slave e latine. Si esprime attraverso la musica folklorica, le danze
+      tradizionali, l'artigianato e le feste religiose. Lingua, cucina e
+      ospitalità sono elementi centrali che riflettono l'identità unica di
+      questo affascinante paese dell'Europa orientale.
+    </p>
+    <div class="spazio"></div>
+    <h2>Lingua</h2>
+    
+    <div class="lingua">
+     <div>
+      <p>
+        In Moldavia, la lingua ufficiale è il rumeno, anche se storicamente è
+        stato oggetto di dibattito e controversie. Durante il periodo sovietico,
+        infatti, la lingua era ufficialmente denominata "moldavo" ed era scritta
+        in alfabeto cirillico, per differenziarla dal rumeno parlato in Romania.
+        Tuttavia, a livello linguistico, il moldavo è praticamente identico al
+        rumeno, con lievi variazioni dialettali. Dopo l'indipendenza del paese nel
+        1991, si è progressivamente tornati all'alfabeto latino e alla
+        denominazione "lingua rumena", come riconosciuto anche dalla Corte
+        Costituzionale moldava nel 2013. Nonostante il rumeno sia la lingua
+        prevalente, in Moldavia convivono altre lingue minoritarie. In
+        particolare, il russo è ancora molto diffuso, soprattutto nelle aree
+        urbane e nella regione della Transnistria, dove ha status di lingua
+        co-ufficiale insieme all'ucraino e al moldavo. L'ucraino, il gagauzo (una
+        lingua turca parlata dalla minoranza gagauza) e il bulgaro sono altre
+        lingue minoritarie presenti in alcune comunità del paese. L'uso quotidiano
+        delle lingue varia molto a seconda della zona: nelle campagne si parla
+        quasi esclusivamente rumeno, spesso con accenti locali, mentre nelle città
+        è più comune trovare una popolazione bilingue o addirittura trilingue.
+        L'insegnamento del russo nelle scuole è stato ridimensionato dopo
+        l'indipendenza, ma molti moldavi, soprattutto della generazione adulta,
+        sono ancora fluenti.
+      </p>
+     </div>
+     <div><img src="lingua.jpg" alt="Mappa linguistica della Moldavia"  width="250" height="300"/>
+     </div>
+    </div>
+
+    <!-- inno moldavo prima strofa -->
+
+    <p> La lingua è un concetto molto importante per la cultura moldava, non a caso l'inno nazionale ne è interamente dedicato.<br/> In seguito, le prime due strofe dell'inno con traduzione a fianco:</p>
+
+      <div class="inno";>
+      <p>Limba noastră-i o comoară<br />
+         în adîncuri înfundată<br />
+         Un șirag de piatră rară<br />
+         pe moșie revărsată.<br />
+         <br />Limba noastră-i foc ce arde<br />
+         într-un neam, ce fără veste<br />
+         S-a trezit din somn de moarte<br />
+         ca viteazul din poveste.
+         </p>
+         <p style="color: dimgrey;"> La nostra lingua è un tesoro<br />
+         nascosto nelle profondità (dei mari),<br />
+         una collana di pietre rare<br />
+         sparsa sulla patria.<br />
+         <br />La nostra lingua è un fuoco che arde<br />
+         in un popolo che, senza preavviso,<br />
+         si è svegliato dal sonno della morte<br />
+         come l’eroe della leggenda.</p>
+      </div>
+  
+  
+    
+      <div class="spazio"></div>
+    
+      <h2>Popolazione</h2>
+    <p>
+      La popolazione della Moldavia è di circa 2,5 milioni di abitanti, secondo
+      le stime più recenti, anche se il numero varia a causa dell’emigrazione
+      costante degli ultimi decenni. La Moldavia ha infatti vissuto un
+      significativo calo demografico a partire dagli anni '90, quando la
+      difficile situazione economica e politica spinse molti cittadini a cercare
+      migliori opportunità di vita all’estero, in particolare in Romania,
+      Italia, Russia e altri paesi europei. La maggioranza della popolazione
+      moldava è costituita da moldavi/rumeni, che rappresentano oltre il 75%
+      degli abitanti.
+    </p>
+
+   <p> Accanto a loro esistono importanti minoranze etniche:</p>           
+    <ul>
+      <li>Ucraini</li>
+      <li>Russi</li>
+      <li>
+        Gagauzi (un popolo di origine turca, ma di religione cristiana
+        ortodossa)
+      </li>
+      <li>Bulgari</li>
+      <li>Etc...</li>
+    </ul>
+
+    <p>
+      La convivenza tra i diversi gruppi etnici ha contribuito alla formazione
+      di una società culturalmente varia e multilingue. Dal punto di vista
+      religioso, la Moldavia è prevalentemente cristiano-ortodossa, con la
+      Chiesa ortodossa moldava (legata al Patriarcato di Mosca) e la Metropolia
+      della Bessarabia (legata al Patriarcato di Romania) come principali
+      istituzioni religiose. La religione gioca ancora un ruolo importante nella
+      vita quotidiana e nelle tradizioni del paese. La popolazione moldava è
+      conosciuta per la sua ospitalità, il forte legame con la terra e il
+      rispetto delle tradizioni. Nelle aree rurali, la vita è spesso organizzata
+      attorno alla famiglia allargata e ai cicli agricoli. Tuttavia, i giovani
+      moldavi, specialmente nelle città, stanno adottando stili di vita più
+      moderni, pur mantenendo saldi molti valori tradizionali.
+    </p>
+    <div class="spazio"></div>
+    <h2>Alcuni personaggi famosi moldavi</h2>
+    <p>
+      La Moldavia è anceh il paese natale di alcuni personaggi illustri. Tra le
+      figure storiche di maggior spicco troviamo il voivoda Stefan cel Mare
+      (Stefano il Grande), sovrano che difese la Moldavia dagli Ottomani durante
+      il XIV sec. nonchè cugino del famoso Dracula. Nella letteratura invece si
+      ricordano Mihai Eminescu (prima foto a sinistra), Ion Creanga e Grigore Vieru.
+    </p>
+    <div class="scrittori">
+    
+        <img src="eminescu.jpg" alt="Mihai Eminescu" width="200" height="300" />
+        <img src="creanga.jpg" alt="Ion Creangá" width="200" height="300" />
+        <img src="vieru.webp" alt="Grigore Vieru" width="200" height="300" />
+        <img src="ozone.jpeg" alt="O-Zone" width="200" height="300" />
+    </div>
+
+    <p>
+      Nel panorama moderno, tra le figure moldave più famose troviamo Dan Balan,
+      del gruppo O-Zone (quarta foto), con la famosissima canzone
+      <a href="https://www.youtube.com/watch?v=YnopHCL1Jk8">Dragostea din tei</a
+      >.
+    </p>
+    
+    <div class="spazio"></div>
+    <div class="finepagina">            <!-- box con links e homepage -->
+      <div>
+        <p>
+          Per approfondire sulla cultura moldava, Unipd offre degli articoli consultabili 
+          <a
+            href="https://culturemigranti.disll.unipd.it/culture/est-europa/moldavia/"
+            >qui</a
+          >.
+        </p>
+        
+      </div>
+
+      
+      <div >
+        <p><a href="index.html"><strong>Torna alla homepage<strong></a></p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,248 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f7f9f9;
+  font-family: Times New Roman;
+  margin-top: 5%;
+  margin: 30px;
+  padding: 50px;
+}
+.inizio {
+  background-color: #f9e79f;
+  border-style:double;
+  padding: 22px;
+  text-align: center;
+}
+
+.paginaindue {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu {
+  width: 30%;
+  background-color: #fcf3cf;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none
+}
+
+.menu a {
+  background-color: #f9e79f;
+  padding: 8px;
+  margin: 8px;
+  display: block;
+  color: black;
+  text-decoration: none
+
+  border-radius: 4px;
+}
+
+.contenuto {
+  background-color: #fef9e7;
+  width: 70%;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+p {
+  font-size: 18px;
+  color: black;
+}
+
+ul {
+  list-style-type: circle;
+  font-size: 18px;
+}
+
+ol {
+  list-style-type: decimal;
+  font-size: 18px;
+}
+dl {
+}
+dt {
+}
+dd {
+  color: lightslategray;
+}
+
+/*MOUSE*/
+a:link {
+  color: crimson;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: blue;
+  text-decoration:underline
+}
+a:active {
+  color: blue;
+}
+
+
+/*PER FARE SPAZIO TRA TESTI*/ 
+div.spazio {
+  margin: 70px;
+}
+
+/*PER INFO A FINE PAGINA*/
+div.finepagina {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+  background-color: #f9e79f;
+}
+
+/*index.html*/
+div.bandiera {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+}
+div.bandiera div {
+  width: 33%;
+  float: left;
+}
+div.bandiera_alto {
+  width: 90%;
+  margin-left: 9%;
+  margin-right: 5%;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  text-align: center;
+}
+div.bandiera_alto div {
+  width: 30%;
+  float: center;
+}
+
+div.stemma {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+
+div.immagine {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  width: 50%; 
+}
+
+/*turismo.html*/
+div.titolo {
+  text-align: center;
+  margin: auto;
+}
+div.dividereindue {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+}
+div.dividereindue div {
+  width: 50%;
+  float: left;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid blue;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+/*cultura.html*/
+
+div.scrittori {
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+}
+div.scrittori div {
+  width: 100%;
+  float: left;
+}
+
+div.lingua {
+  width: 140%;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+div.lingua div {
+  width: 60%;
+  align-items: center;
+}
+
+
+div.inno {
+  display: flex;
+  padding-left: 0%;
+  gap: 50px;
+}
+
+div.inno div {
+  width: 50%;
+  margin: 1;
+  line-height: 1.5;
+}
+
+/*gastronomia.html*/
+div.titolo_gastronomia {
+  text-align: center;
+  margin: auto;
+}
+div.background_ricetta {
+  padding-top: 5%;
+  background-color: #fcf3cf;
+  border-style:double;
+}
+div.ricetta {
+  width: 90%;
+  display: flex;
+  padding-left: 5%;
+
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+div.ricetta div {
+  width: 70%;
+  float: left;
+}
+div.dividereindue_g {
+  display: flex;
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+  align-items: center;
+}
+div.dividereindue_g div {
+  width: 60%;
+  float: left;
+}

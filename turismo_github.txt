@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Turismo</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+
+  <body>                                     <!-- bandiera con links -->
+    <div class="bandiera_alto">
+      <div style="background-color: blue">
+        <p style="color: white">Per scoprire la cultura moldavo:</p>
+        <p>
+          <a href="cultura.html"
+            ><img
+              src="imgs/click_blue.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: yellow">
+        <p>Torna alla homepage</p>
+        <p>
+          <a href="index.html"
+            ><img
+              src="imgs/click_yellow.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: red; color: white">
+        <p>Per scoprire la gastronomia moldava:</p>
+        <p>
+          <a href="gastronomia.html"
+            ><img
+              src="imgs/click_red.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+    </div>
+    <div class="spazio"></div>
+    <div class="titolo">
+
+      <h1>Il Turismo in Moldavia</h1>
+    </div>
+
+    <img
+      src="imgs/chmd.jpg"
+      alt="Immagine panoramica"
+      width="1100"
+      height="370"
+    />
+
+    <p>
+      Negli ultimi anni, il turismo in Moldavia si è sviluppato in modo
+      significativo, grazie a politiche mirate di promozione culturale e alla
+      valorizzazione delle risorse naturali e tradizionali del paese. Se un
+      tempo la Moldavia era poco conosciuta come destinazione turistica, oggi
+      attrae visitatori interessati a esperienze autentiche e non convenzionali.
+      Il governo e le imprese private hanno investito nella creazione di
+      percorsi turistici legati al vino, al patrimonio storico e alla natura
+      incontaminata.
+    </p>
+    <div class="spazio"></div>
+    <h2>Il punto forte: VINO!</h2>
+    <p>
+      Il vino occupa un ruolo centrale nel turismo moldavo, rappresentando una
+      delle principali attrazioni per i visitatori del paese. Con una tradizione
+      vinicola che risale a più di 5.000 anni fa, la Moldavia vanta alcune delle
+      più grandi e antiche cantine sotterranee del mondo. I turisti vengono
+      attratti non solo dalla qualità dei vini locali, ma anche dall’esperienza
+      unica di visitare complessi vinicoli che si estendono per chilometri
+      sottoterra, tra le piu famose abbiamo Cricova e Mileștii Mici.
+    </p>
+
+    <p>
+      Numerosi eventi e festival dedicati al vino, come la Giornata Nazionale
+      del Vino, celebrata ogni ottobre, offrono ai visitatori l’occasione di
+      degustare prodotti autentici, scoprire tecniche tradizionali di
+      vinificazione e immergersi nella cultura ospitale del paese. Il turismo
+      enogastronomico moldavo unisce alla perfezione sapori, tradizioni e
+      paesaggi naturali, facendo del vino non solo un prodotto da esportare, ma
+      anche un potente strumento di promozione culturale e identitaria.
+    </p>
+
+    <img src="imgs/cricova_turismo.jpg" alt="Cantina vinicola"/>
+
+    <p>
+      Cricova è tra le cantine più estese del mondo e la più turistica in
+      Moldavia, ma questo piccolo paese ne offre tantissime altre:
+    </p>
+
+    <table>                                 <!-- tabella delle cantine -->
+      <tr>
+        <th>Cantina</th>
+        <th>Descrizione</th>
+      </tr>
+      <tr>
+        <td><a href="https://vartely.md/en/"><strong>Château Vartely</strong></a></td>
+        <td>
+          Situata nella città di Orhei, a circa 45 km da Chișinău, Château
+          Vartely combina la produzione di vini di alta qualità con un complesso
+          turistico che include un hotel e un ristorante. È stata riconosciuta
+          come una delle migliori cantine del paese.
+         
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://etcetera.md/en/"><strong>Et Cetera</strong></a></td>
+        <td>
+          Et Cetera è una cantina a conduzione familiare situata nel villaggio
+          di Crocmaz, nel distretto di Ștefan Vodă. Fondata nel 2002, è rinomata
+          per la produzione di vini che riflettono il carattere autentico del
+          terroir moldavo, utilizzando metodi ecologici. <br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://purcariwineries.com/en/"><strong>Purcari</strong></a></td>
+        <td>
+          Fondata nel 1827, Purcari è una delle cantine più antiche e
+          prestigiose della Moldavia. È nota per i suoi vini premiati a livello
+          internazionale e per la sua lunga tradizione vinicola. La cantina è
+          situata nella regione di Ștefan Vodă, vicino al fiume Dniester.
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://asconiwinery.com/"><strong>Asconi</strong></a></td>
+        <td>
+          Fondata nel 1994 come un'impresa famigliare. È nota per i suoi vini presi dal modello francese come Cabernet Sauvignon, Merlot, Chardonnay, Sauvignon Blanc e Muscat. è situata nella cittadella di Puhoi, a pochi chilometri dalla capitale.
+        </td>
+      </tr>
+      <tr> E tante altre... Per i fanatici, qui una <a href="https://www.tripadvisor.it/Attractions-g294455-Activities-c36-t132-Moldova.html">lista</a>  esauriente. 
+      </tr>
+
+    </table>
+
+    <div class="spazio"></div>
+
+    <div class="dividereindue">
+      <div>
+        <img
+          src="imgs/codrii_turismo.jpg"
+          alt="Orheiul Vechi"
+          width="450"
+          height="300"
+        />
+      </div>
+      <div>
+        <h2>La sua natura incontaminata</h2>
+        <p>
+          La Moldavia è un paese che sorprende per la sua natura ancora in gran
+          parte incontaminata, lontana dai circuiti turistici di massa. I suoi
+          paesaggi sono dominati da dolci colline, foreste secolari, fiumi
+          sinuosi e vaste aree rurali che conservano la biodiversità tipica
+          dell'Europa orientale. Diverse aree del paese sono oggi protette come
+          riserve naturali o riconosciute come patrimonio ambientale di valore
+          internazionale. Tra i principali siti di interesse naturalistico
+          troviamo Orheiul Vechi ("il vecchio Orhei") e la riserva naturale di
+          Codrii.
+        </p>
+      </div>
+    </div>
+    <div class="spazio"></div>
+    <div class="dividereindue">
+      <div>
+        <h2>Gastronomia multietnica</h2>
+        <p>
+          La gastronomia moldava è il risultato di secoli di influenze culturali
+          diverse, tra cui quelle rumene, ucraine, russe e turche, che si sono
+          fuse dando vita a una cucina ricca di sapori autentici e tradizioni
+          radicate. I piatti tipici moldavi sono caratterizzati da ingredienti
+          semplici e genuini, provenienti soprattutto dall'agricoltura locale.
+          Uno dei piatti più rappresentativi è la mămăligă, una polenta di mais
+          servita spesso con formaggio, panna acida e stufati di carne. Altro
+          piatto molto diffuso è il <a href="gastronomia.html#sarmale"><strong>sarmale</strong></a>, involtini di cavolo o vite ripieni
+          di carne macinata e riso. Il vino e la grappa artigianale, come il
+          divin (brandy moldavo), accompagnano spesso i pasti, i quali vengono
+          spesso accompagnati da musica popolare e danze.
+        </p>
+      </div>
+
+      <div>
+        <img
+          src="imgs/cibo_turismoo.jpg"
+          alt="Immagine cibo"
+          width="400"
+          height="300"
+        />
+      </div>
+    </div>
+    <div class="spazio"></div>
+
+    <div class="finepagina">                       <!-- box con links e homepage -->
+      <div>
+        <p>
+          Per prenotare un pacchetto viaggio, clicca
+          <a
+            href="https://www.tripadvisor.it/Attractions-g294455-Activities-c42-Moldova.html"
+            >qui</a
+          >.
+        </p>
+      </div>
+
+      <div>
+        <p>
+          Per ulteriori informazioni, ed eventuali pernottamenti, clicca
+          <a
+            href="https://voyages-moldavie.com/it/tours/il-nostro-tour-in-moldova/"
+            >qui</a
+          >.
+        </p>
+      </div>
+      <div >
+        <p><a href="index.html"><strong>Torna alla homepage<strong></a></p>
+      </div>
+    </div>
+  </body>
+</html>

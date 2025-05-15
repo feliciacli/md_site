@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gastronomia</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>                                <!-- bandiera con links -->
+    <div class="bandiera_alto">
+      <div style="background-color: blue">
+        <p style="color: white">Per scoprire il turismo moldavo:</p>
+        <p>
+          <a href="turismo.html"
+            ><img
+              src="click_blue.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: yellow">
+        <p>Per scoprire la cultura moldava:</p>
+        <p>
+          <a href="cultura.html"
+            ><img
+              src="click_yellow.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+
+      <div style="background-color: red; color: white">
+        <p>Torna alla homepage</p>
+        <p>
+          <a href="index.html"
+            ><img
+              src="click_red.png"
+              width="190"
+              height="40"
+              alt="Clicca qui"
+          /></a>
+        </p>
+      </div>
+    </div>
+    <div class="spazio"></div>
+    <div class="titolo">
+    
+    <h1>La gastronomia moldava</h1>
+    <img src="gastronomia.jpg" alt="Banchetto con cibo tradizionale" width="1100" height="440"/>
+</div>
+    <p>La cucina moldava è un'affascinante combinazione di tradizioni gastronomiche contadine, influenze balcaniche, slave e ottomane, che riflette la storia multiculturale del Paese. Ricca di sapori intensi e ingredienti semplici ma genuini, si basa soprattutto su prodotti locali come mais, patate, cavoli, fagioli, carne di maiale, formaggi e verdure di stagione.</p>
+ <p> La cucina moldava si distingue anche per l'uso sapiente di erbe aromatiche e aglio, che donano profondità ai piatti senza coprirne il gusto. In campagna, molte ricette si tramandano oralmente da generazioni e sono legate ai cicli delle stagioni e alle feste religiose. Convivialità e ospitalità sono elementi chiave della cultura gastronomica: un pasto moldavo è spesso abbondante, vario e accompagnato da vino locale o țuică, la grappa tradizionale. I dolci invece sono molto spesso immersi nella frutta, dal sapore spesso un po' amaro o acido (ne è esempio la <a href="#ricetta" ><strong> ricetta del giorno</strong> </a> in fondo alla pagina)</p>
+
+ <div class="spazio"></div>
+ <h2 style="text-align: center;">I famosissimi:</h2>
+
+ <div class="spazio"></div>
+ <div class="dividereindue_g">
+  <div>
+    <img
+      src="placinte.jpg"
+      alt="Placinte"
+      width="400"
+      height="250"
+    />
+  </div>
+  <div>
+    <h2>Placinte</h2>
+    <p>
+      Le plăcinte moldave sono uno dei simboli più amati della cucina tradizionale della Moldova. Si tratta di sfoglie ripiene, simili a torte salate o dolci, preparate con un impasto sottile e flessibile, poi fritte o cotte al forno. Tra i ripieni salati più comuni ci sono patate (con pepe), formaggio salato (brânză), cavolo o carne macinata, mentre le versioni dolci possono contenere mele, ciliegie, zucca o ricotta zuccherata. In campagna si preparano ancora secondo metodi tradizionali, con impasti lavorati a mano e cottura in forno a legna. Ogni famiglia moldava ha la sua ricetta, rendendo ogni plăcintă unica e profondamente legata alla memoria culinaria locale.
+    </p>
+  </div>
+</div>
+<div class="dividereindue_g">
+  <div>
+    <h2>Mamaliga</h2>
+    <p>
+      La mămăligă è uno dei piatti più iconici della cucina moldava, simile alla polenta italiana ma con una preparazione e un ruolo culturale distinti. Si ottiene cuocendo farina di mais in acqua salata fino a ottenere una consistenza densa e compatta. Tradizionalmente, viene servita come contorno ricco e nutriente, spesso al posto del pane. In Moldova, la mămăligă accompagna piatti saporiti come la brânză (formaggio salato di pecora o vacca), la friptură (carne arrosto, in particolare maiale) o il pește prăjit (pesce fritto), il tutto arricchito dal mujdei, una salsa pungente a base di aglio tritato e acqua o olio. Questo piatto rustico è legato alla vita contadina e rappresenta semplicità, abbondanza e convivialità. Spesso preparata in grandi pentole di ghisa e tagliata con un filo invece che con il coltello, la mămăligă è ancora oggi simbolo di identità gastronomica e orgoglio nazionale.
+    </p>
+  </div>
+  <div><img
+      src="mamaliga.jpg"
+      alt="Mamaliga"
+      width="400"
+      height="250"
+    />
+    
+  </div>
+</div>
+<div class="dividereindue_g">
+  <div>
+    <img
+      src="sarmale.webp"
+      alt="Sarmale"
+      width="400"
+      height="250"
+    />
+  </div>
+  <div>
+    <h2 id="sarmale">Sarmale</h2>
+    <p>
+      I sarmale sono uno dei piatti più amati e rappresentativi della cucina moldava, preparati soprattutto durante le feste e le occasioni speciali. Si tratta di involtini realizzati con foglie di cavolo marinato o foglie di vite, farciti con un impasto a base di carne macinata, riso, cipolla e spezie. Sebbene entrambe le versioni siano diffuse, in Moldova sono particolarmente apprezzati i sarmale avvolti in foglie di vite, più piccoli, delicati e profumati. La preparazione richiede pazienza e abilità, ma il risultato è un piatto ricco di gusto e tradizione. I sarmale vengono cotti lentamente in pentole larghe, spesso in un sugo a base di pomodoro, e serviti con panna acida (smântână) e talvolta con mămăligă. Ogni famiglia ha la sua variante, tramandata di generazione in generazione, e ogni morso racconta qualcosa della storia, del territorio e della convivialità moldava.
+
+    </p>
+    
+  </div>
+</div>
+<div class="dividereindue_g">
+  <div>
+   <h2>Muraturi</h2>
+    <p>
+      I murături moldavi, ovvero le verdure conservate in salamoia, sono una presenza costante sulle tavole tradizionali, soprattutto durante l’inverno. Preparati artigianalmente con cetrioli, cavoli, pomodori verdi, peperoni, anguria e aglio, vengono messi a fermentare in acqua salata insieme a spezie, foglie di alloro, semi di aneto e talvolta rafano, per conferire sapore e croccantezza. A differenza dei sottaceti in aceto, i murături si ottengono tramite fermentazione lattica, risultando più delicati e naturalmente ricchi di probiotici. Si servono come contorno a piatti grassi o sostanziosi, come carne arrosto o sarmale, bilanciando i sapori.</p> 
+      <p>Accanto alla verdura marinata, nelle dispense moldave si trova anche il compot, una bevanda dolce ottenuta facendo bollire frutta fresca (come ciliegie, prugne o mele) con zucchero e talvolta spezie. Il compot viene servito freddo ed è apprezzato soprattutto d’estate o durante i pasti in famiglia. Entrambi, murături e compot, raccontano la cura per la conservazione naturale e il legame profondo con i cicli stagionali.</p>
+  </div>
+  <div>
+    <img
+    src="muraturi.jpg"
+    alt="Muraturi"
+    width="400"
+    height="250"
+  />
+  </div>
+</div>
+ 
+<div class="spazio"></div>
+
+
+    <div class="background_ricetta">
+      <div style="text-align: center;" >
+        <h2 id="ricetta">Ricetta del giorno</h2>
+        <h3>Cuşma lui Guguţă (Il cappuccio di Guguţă)</h3>
+      </div>
+      
+      <div class="ricetta">                                <!-- ricetta del giorno -->
+        <div >
+          <img
+          src="cusma.jpg"
+          alt="Cusma lui Guguta"
+          width="450"
+          height="650"
+        />
+        </div>
+        <div style="font-size: 15px">
+        <h3>Ingredienti</h3>
+        <ul>
+          <li>
+            <strong>Per le crepes:</strong>
+            <ul>
+              <li>500 ml di latte</li>
+              <li>250 g di farina</li>
+              <li>1 cucchiaio di zucchero</li>
+              <li>50 g di burro fuso (più un po' per ungere la padella)</li>
+              <li>1 cucchiaino di estratto di vaniglia</li>
+              <li>3 uova medie</li>
+              <li>Un pizzico di sale</li>
+            </ul>
+          </li>
+          <li>
+            <p></p>
+            <strong>Per il ripieno e la copertura:</strong>
+            <ul>
+              <li>450 g di ciliegie acide (amarene) denocciolate</li>
+              <li>300 g di panna acida (30% di grassi)</li>
+              <li>2 cucchiai di zucchero</li>
+              <li>100 g di cioccolato fondente grattugiato</li>
+            </ul>
+          </li>
+        </ul>
+        <h3>Preparazione</h3>
+        <ol style="font-size: 16px">
+          <li >
+            Scalda leggermente il latte e mescolalo con zucchero, vaniglia, sale
+            e burro fuso.
+          </li>
+          <li>
+            Aggiungi le uova sbattute e incorpora gradualmente la farina fino a
+            ottenere una pastella liscia.
+          </li>
+          <li>
+            Cuoci le crepes in una padella antiaderente leggermente unta, circa
+            2 minuti per lato. Lascia raffreddare.
+          </li>
+          <li>Prepara la crema mescolando la panna acida con lo zucchero.</li>
+          <li>
+            Riempi ogni crepe con le ciliegie e arrotolala. Disponi i rotoli a
+            strati per formare una piramide (4 alla base, poi 3, 2 e 1).
+          </li>
+          <li>
+            Copri il dolce con la crema e spolvera con il cioccolato
+            grattugiato.
+          </li>
+          <li>
+            Lascia riposare in frigorifero per almeno 2 ore prima di servire.
+          </li>
+        </ol>
+      </div>
+    </div>
+      </div>
+      <div class="spazio"></div>
+
+    <div class="finepagina">                        <!-- box con links e homepage -->
+          <div>
+            <p>
+              Per approfondire, clicca
+              <a
+                href="https://moldova.travel/en/gastronomy/"
+                >qui</a
+              >.
+            </p>
+          </div>
+    
+          
+      <div >
+            <p><a href="index.html"><strong>Torna alla homepage<strong></a></p>
+          </div>
+        </div>
+  </body>
+</html>
